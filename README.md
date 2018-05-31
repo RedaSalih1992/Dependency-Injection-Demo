@@ -1,2 +1,2 @@
 # Dependency-Injection-Demo
-Using DP of Spring for sorting an existing array.
+Using DI in Java for sorting an existing array.
